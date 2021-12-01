@@ -1,14 +1,12 @@
-# Happiness-Index-2021
-# Tableau: Census Income
+# Tableau: Happiness Index Report-2021
 This Repository contains the statistical analysis of the world happiness index report-2021. This was done for the course work of Tableau during our 2nd year of engineering. All the screenshots regarding the visualization have been attached below.
 
 
-<img src="/Images/D:\KJSCE\sy\dv\Images" height="400" />
 
 ## Analysis and Visualization
 
 <img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_1.png" height="400" width="550" />
-<img src="/Images/storypoint2.png" height="400" width="550"/>
+<img src="TABLEAU/Images/storypoint2.png" height="400" width="550"/>
 <img src="/Images/storypoint3.png" height="400" width="550"/>
 <img src="/Images/storypoint4.png" height="400" width="550"/>
 <img src="/Images/storypoint5.png" height="400" />
