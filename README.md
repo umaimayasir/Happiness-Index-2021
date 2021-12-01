@@ -7,7 +7,7 @@ This Repository contains the statistical analysis of the world happiness index r
 
 <img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_1.png" height="400" width="550" />
 <img src="TABLEAU/Images/storypoint2.png" height="400" width="550"/>
-<img src="/Images/storypoint3.png" height="400" width="550"/>
+<img src="/TABLEAU/Images/storypoint_1.png" height="400" width="550"/>
 <img src="/Images/storypoint4.png" height="400" width="550"/>
 <img src="/Images/storypoint5.png" height="400" />
 <img src="/Images/storypoint6.png" height="400" />
