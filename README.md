@@ -5,16 +5,16 @@ This Repository contains the statistical analysis of the world happiness index r
 
 ## Analysis and Visualization
 
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_1.png" height="400" width="550" />
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_2.png" height="400" width="550"/>
-<img src="//Images/D:\KJSCE\sy\dv\Images\storypoint_3.png" height="400" width="550"/>
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_4.png" height="400" width="550"/>
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_5.png" height="400" />
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_6.png" height="400" />
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_7.png" height="400" />
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_8.png" height="400" />
-<img src="/Images/D:\KJSCE\sy\dv\Images\storypoint_9.png" height="500" />
-
+<img src="/TABLEAU/Images/storypoint_1.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_2.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_3.png" height="400"/>
+<img src="/TABLEAU/Images/storypoint_4.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_5.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_6.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_7.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_8.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_9.png" height="400" />
+<img src="/TABLEAU/Images/storypoint_10.png" height="400" />
 
 ## Contributors
 - Umaima Yasir Dabir (Roll No: 16010120064)
